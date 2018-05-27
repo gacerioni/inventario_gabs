@@ -1,7 +1,10 @@
 [local]
 127.0.0.1
 
-[client]
+[ansible-server]
+192.168.15.101
+
+[ansible-client]
 192.168.15.102
 
 [notebook]
